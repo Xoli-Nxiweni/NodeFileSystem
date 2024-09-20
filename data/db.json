@@ -1,0 +1,10 @@
+{
+    "shoppingList": [
+        {
+            "item": "Milk",
+            "quantity": 2,
+            "unit": "liters",
+            "id": 1
+        }
+    ]
+}

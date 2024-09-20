@@ -1,0 +1,22 @@
+{
+  "shoppingList": [
+    {
+      "id": 1,
+      "item": "Milk",
+      "quantity": 2,
+      "unit": "liters"
+    },
+    {
+      "id": 2,
+      "item": "Bread",
+      "quantity": 1,
+      "unit": "loaf"
+    },
+    {
+      "id": 3,
+      "item": "Eggs",
+      "quantity": 12,
+      "unit": "pieces"
+    }
+  ]
+}
